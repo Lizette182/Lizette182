@@ -4,7 +4,8 @@
 Soy una entusiasta del aprendizaje continuo especialmente en el ámbito del análisis de datos. Como profesional en administración de empresas y especialista en análisis de datos he realizado a lo largo de mi experiancia laboral, tareas como elaboración de dashboards en herramientas BI como Looker studio para analizar el performance de las campañas en plataformas digitales. También he realizado análisis exploratorios en Python gracias a los proyectos llevados a cabo en el Bootcamp realizado en TripleTen los cuales me enseñaron a programar en diferentes librerias tales como Pandas, Numpy, Seaborn, Scipy y Matplotlib para realizar procesamiento de datos, visualización y análisis estadístico; labores que plazmo claramente en el proyecto del sprint 6 que comparto en el presente portafolio. También aprendí a desarrollar aplicaciones publicadas en la web gracias a la libreria Streamlit de python lo cual evidencio en el proyecto del sprint 7. Me visualizo aportando Valor a través de los aprendizajes adquiridos con la realización de los diferentes proyectos de analítica de información mediante las herramientas más demandadas en el sector.
 
 # DASHBOARDS
-Captura de pantalla 2026-01-12 171940
+<img width="702" height="471" alt="Captura de pantalla 2026-01-12 171940" src="https://github.com/user-attachments/assets/3ec23c03-0e80-4aec-b96e-445d248a2032" />
+
 
 # PROYECTO PYTHON TIENDA DE VIDEOJUEGOS 💻
 La idea u objetivo de la realización de este proyecto consistía en aplicar todo lo aprendido en los anteriores sprints correspondiente a procesamiento, análisis exploratorio y estadístico de datos y técnicas de visualización con las diferentes librerías de Python.
